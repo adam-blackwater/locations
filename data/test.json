@@ -1,0 +1,173 @@
+[
+  {
+    "address": "Pennys Walk",
+    "charging_when_closed": false,
+    "city": "Ferndown",
+    "coordinates": {
+      "latitude": "50.8011300",
+      "longitude": "-1.8931400"
+    },
+    "country": "GBR",
+    "directions": null,
+    "energy_mix": null,
+    "evses": [
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "format": "SOCKET",
+            "id": "Arne-Robb-A",
+            "last_updated": "2024-02-28T15:14:32Z",
+            "max_amperage": 32,
+            "max_electric_power": 7000,
+            "max_voltage": 230,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "tariff_ids": [
+              "2212"
+            ],
+            "terms_and_conditions": null
+          }
+        ],
+        "coordinates": {
+          "latitude": "50.8011300",
+          "longitude": "-1.8931400"
+        },
+        "directions": null,
+        "evse_id": null,
+        "floor_level": null,
+        "images": null,
+        "last_updated": "2024-02-28T15:14:32Z",
+        "parking_restrictions": null,
+        "physical_reference": "Arne-Robb",
+        "status": "UNKNOWN",
+        "status_schedule": null,
+        "uid": "Arne-Robb-A"
+      },
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "format": "SOCKET",
+            "id": "Chet-Glen-B",
+            "last_updated": "2024-02-29T08:31:29Z",
+            "max_amperage": 32,
+            "max_electric_power": 7000,
+            "max_voltage": 230,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "tariff_ids": [
+              "2212"
+            ],
+            "terms_and_conditions": null
+          }
+        ],
+        "coordinates": {
+          "latitude": "50.8011300",
+          "longitude": "-1.8931400"
+        },
+        "directions": null,
+        "evse_id": null,
+        "floor_level": null,
+        "images": null,
+        "last_updated": "2024-02-29T08:31:29Z",
+        "parking_restrictions": null,
+        "physical_reference": "Chet-Glen",
+        "status": "UNKNOWN",
+        "status_schedule": null,
+        "uid": "Chet-Glen-B"
+      },
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "format": "SOCKET",
+            "id": "Arne-Robb-B",
+            "last_updated": "2024-02-29T08:42:02Z",
+            "max_amperage": 32,
+            "max_electric_power": 7000,
+            "max_voltage": 230,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "tariff_ids": [
+              "2212"
+            ],
+            "terms_and_conditions": null
+          }
+        ],
+        "coordinates": {
+          "latitude": "50.8011300",
+          "longitude": "-1.8931400"
+        },
+        "directions": null,
+        "evse_id": null,
+        "floor_level": null,
+        "images": null,
+        "last_updated": "2024-02-29T08:42:02Z",
+        "parking_restrictions": null,
+        "physical_reference": "Arne-Robb",
+        "status": "UNKNOWN",
+        "status_schedule": null,
+        "uid": "Arne-Robb-B"
+      },
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "format": "SOCKET",
+            "id": "Chet-Glen-A",
+            "last_updated": "2024-02-28T17:24:27Z",
+            "max_amperage": 32,
+            "max_electric_power": 7000,
+            "max_voltage": 230,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "tariff_ids": [
+              "2212"
+            ],
+            "terms_and_conditions": null
+          }
+        ],
+        "coordinates": {
+          "latitude": "50.8011300",
+          "longitude": "-1.8931400"
+        },
+        "directions": null,
+        "evse_id": null,
+        "floor_level": null,
+        "images": null,
+        "last_updated": "2024-02-28T17:24:27Z",
+        "parking_restrictions": null,
+        "physical_reference": "Chet-Glen",
+        "status": "UNKNOWN",
+        "status_schedule": null,
+        "uid": "Chet-Glen-A"
+      }
+    ],
+    "facilities": null,
+    "id": "13184",
+    "images": null,
+    "last_updated": "2024-02-29T08:42:02Z",
+    "name": "Tesco Superstore - Ferndown",
+    "opening_times": null,
+    "operator": null,
+    "owner": null,
+    "parking_type": null,
+    "party_id": "PP",
+    "postal_code": "BH22 9TH",
+    "publish": true,
+    "publish_allowed_to": null,
+    "related_locations": null,
+    "state": "",
+    "suboperator": null,
+    "time_zone": "Europe/London"
+  }
+]
