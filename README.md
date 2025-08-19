@@ -12,7 +12,7 @@ An HTTP API for surfacing the data:
 - ordering
 
 Some basic geo-spacial calculations: 
-- finding closest locations using the coordinates of a 
+- finding closest locations using the coordinates based on latitude/longitude
   
 ## How to use
 All the Makefile commands below should be run from the root of the project. If you are using Linux or MacOS make should already be installed.
